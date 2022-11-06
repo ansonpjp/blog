@@ -62,7 +62,7 @@ class Aplyid
                 'timeout'   => 60,
                 'headers'   =>  [
                     'Aply-API-Key' => 'DBzb2eiX6Yt1Fi9kYy96mE3w',
-                    'Aply-Secret' => 'WtBAQ55E4DUmmu1J2NFh2ma6gzDZNZhj'
+                    'Aply-Secret' => 'WtBAQ55E4DUmmu1J2NFh2ma6gzDZNZhj' //local changesssssssssss
                 ],
                 'json'      => $body
             ]);
